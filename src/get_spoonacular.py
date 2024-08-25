@@ -45,6 +45,10 @@ def process_and_insert_recipe(recipe):
         except:
             pass
         
+        price_per_serving = recipe.get('pricePerServing')
+        if price_per_serving is not None:
+            price_per_serving = price_per_serving / 100
+        
         recipe_data = {
             'id': recipe.get('id'),
             'name': recipe.get('title'),
@@ -58,7 +62,7 @@ def process_and_insert_recipe(recipe):
             'cheap': recipe.get('cheap'),
             'very_popular': recipe.get('veryPopular'),
             'sustainable': recipe.get('sustainable'),
-            'price_per_serving': recipe.get('pricePerServing'),
+            'price_per_serving': price_per_serving,
             'ready_in_minutes': recipe.get('readyInMinutes'),
             'summary': summary,
             'cuisines': recipe.get('cuisines'),
@@ -137,6 +141,7 @@ def process_and_insert_recipe(recipe):
             ))
         
         conn.commit()
+
 
 def main():
     already_fetched_ids = get_retrieved_recipe_ids()

@@ -1,0 +1,7958 @@
+[
+    {
+        "recipe_id": 633998,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 633998,
+        "ingredient_id": 14412,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 633998,
+        "ingredient_id": 4047,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 633998,
+        "ingredient_id": 93747,
+        "unit": "cup",
+        "amount": "0.33"
+    },
+    {
+        "recipe_id": 648460,
+        "ingredient_id": 11457,
+        "unit": "oz",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 648460,
+        "ingredient_id": 5062,
+        "unit": "pound",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 648460,
+        "ingredient_id": 10220445,
+        "unit": "cups",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 648460,
+        "ingredient_id": 1125,
+        "unit": "large",
+        "amount": "5.00"
+    },
+    {
+        "recipe_id": 648460,
+        "ingredient_id": 6984,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 648460,
+        "ingredient_id": 10211216,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 648460,
+        "ingredient_id": 11282,
+        "unit": "oz",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 648460,
+        "ingredient_id": 10211529,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 648460,
+        "ingredient_id": 1004582,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 648460,
+        "ingredient_id": 16124,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 648460,
+        "ingredient_id": 19335,
+        "unit": "tablespoons",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 632957,
+        "ingredient_id": 11011,
+        "unit": "jumbo",
+        "amount": "24.00"
+    },
+    {
+        "recipe_id": 632957,
+        "ingredient_id": 1125,
+        "unit": "",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 632957,
+        "ingredient_id": 10311297,
+        "unit": "",
+        "amount": "10.00"
+    },
+    {
+        "recipe_id": 632957,
+        "ingredient_id": 1053,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 632957,
+        "ingredient_id": 14057,
+        "unit": "cup",
+        "amount": "0.67"
+    },
+    {
+        "recipe_id": 632957,
+        "ingredient_id": 2046,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 632957,
+        "ingredient_id": 1034053,
+        "unit": "tablespoons",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 632957,
+        "ingredient_id": 1038,
+        "unit": "tablespoons",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 632957,
+        "ingredient_id": 1002030,
+        "unit": "tablespoons",
+        "amount": "1.67"
+    },
+    {
+        "recipe_id": 632957,
+        "ingredient_id": 11677,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 632957,
+        "ingredient_id": 1012068,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 635058,
+        "ingredient_id": 10211821,
+        "unit": "large",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 635058,
+        "ingredient_id": 16018,
+        "unit": "ounce",
+        "amount": "14.00"
+    },
+    {
+        "recipe_id": 635058,
+        "ingredient_id": 10011693,
+        "unit": "ounce",
+        "amount": "28.00"
+    },
+    {
+        "recipe_id": 635058,
+        "ingredient_id": 2009,
+        "unit": "teaspoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 635058,
+        "ingredient_id": 1022020,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 635058,
+        "ingredient_id": 1012014,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 635058,
+        "ingredient_id": 1034053,
+        "unit": "tablespoons",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 635058,
+        "ingredient_id": 11282,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 635058,
+        "ingredient_id": 2027,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 635058,
+        "ingredient_id": 2028,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 636768,
+        "ingredient_id": 10020129,
+        "unit": "g",
+        "amount": "200.00"
+    },
+    {
+        "recipe_id": 636768,
+        "ingredient_id": 10118375,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 636768,
+        "ingredient_id": 2047,
+        "unit": "pinch",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 636768,
+        "ingredient_id": 19335,
+        "unit": "g",
+        "amount": "150.00"
+    },
+    {
+        "recipe_id": 636768,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 636768,
+        "ingredient_id": 1125,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 636768,
+        "ingredient_id": 14106,
+        "unit": "ml",
+        "amount": "100.00"
+    },
+    {
+        "recipe_id": 636768,
+        "ingredient_id": 4053,
+        "unit": "ml",
+        "amount": "100.00"
+    },
+    {
+        "recipe_id": 636768,
+        "ingredient_id": 19336,
+        "unit": "g",
+        "amount": "100.00"
+    },
+    {
+        "recipe_id": 636768,
+        "ingredient_id": 9152,
+        "unit": "ml",
+        "amount": "150.00"
+    },
+    {
+        "recipe_id": 644842,
+        "ingredient_id": 93740,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 644842,
+        "ingredient_id": 20003,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 644842,
+        "ingredient_id": 1012047,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 644842,
+        "ingredient_id": 18372,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 644842,
+        "ingredient_id": 93626,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 644842,
+        "ingredient_id": 2010,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 644842,
+        "ingredient_id": 4615,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 644842,
+        "ingredient_id": 19912,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 644842,
+        "ingredient_id": 93831,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 644842,
+        "ingredient_id": 1052050,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 644842,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 644842,
+        "ingredient_id": 8402,
+        "unit": "cups",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 633998,
+        "ingredient_id": 18373,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 633998,
+        "ingredient_id": 1012010,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 633998,
+        "ingredient_id": 1009040,
+        "unit": "",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 633998,
+        "ingredient_id": 9050,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 633302,
+        "ingredient_id": 10123,
+        "unit": "strips",
+        "amount": "14.00"
+    },
+    {
+        "recipe_id": 633302,
+        "ingredient_id": 19335,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 633302,
+        "ingredient_id": 14412,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 633302,
+        "ingredient_id": 19350,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 633302,
+        "ingredient_id": 1001,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 633302,
+        "ingredient_id": 1053,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 633302,
+        "ingredient_id": 1052050,
+        "unit": "teaspoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 716412,
+        "ingredient_id": 18064,
+        "unit": "slice",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716412,
+        "ingredient_id": 1002030,
+        "unit": "serving",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716412,
+        "ingredient_id": 19296,
+        "unit": "serving",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716412,
+        "ingredient_id": 1036,
+        "unit": "serving",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716412,
+        "ingredient_id": 1159,
+        "unit": "serving",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716412,
+        "ingredient_id": 1012047,
+        "unit": "serving",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716412,
+        "ingredient_id": 9081,
+        "unit": "serving",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 636080,
+        "ingredient_id": 19334,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 636080,
+        "ingredient_id": 1001,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 636080,
+        "ingredient_id": 19201,
+        "unit": "box",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 636080,
+        "ingredient_id": 10012142,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 636080,
+        "ingredient_id": 98940,
+        "unit": "pkg",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 1063645,
+        "ingredient_id": 1053,
+        "unit": "tbsp",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 652848,
+        "ingredient_id": 10115261,
+        "unit": "fillet",
+        "amount": "12.00"
+    },
+    {
+        "recipe_id": 652848,
+        "ingredient_id": 2032,
+        "unit": "dash",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 652848,
+        "ingredient_id": 43479,
+        "unit": "teaspoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 652848,
+        "ingredient_id": 14003,
+        "unit": "cup",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 652848,
+        "ingredient_id": 1125,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 652848,
+        "ingredient_id": 20081,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 652848,
+        "ingredient_id": 2047,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 652848,
+        "ingredient_id": 4582,
+        "unit": "servings",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 651453,
+        "ingredient_id": 11959,
+        "unit": "servings",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 651453,
+        "ingredient_id": 2069,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 651453,
+        "ingredient_id": 2054,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 651453,
+        "ingredient_id": 1009195,
+        "unit": "",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 651453,
+        "ingredient_id": 4025,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 651453,
+        "ingredient_id": 4053,
+        "unit": "tablespoons",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 651453,
+        "ingredient_id": 10311297,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 651453,
+        "ingredient_id": 10211529,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 651453,
+        "ingredient_id": 21052,
+        "unit": "servings",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 651453,
+        "ingredient_id": 11677,
+        "unit": "small",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 651453,
+        "ingredient_id": 15124,
+        "unit": "oz",
+        "amount": "7.00"
+    },
+    {
+        "recipe_id": 651453,
+        "ingredient_id": 19335,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 651453,
+        "ingredient_id": 1002068,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 639578,
+        "ingredient_id": 1001,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 639578,
+        "ingredient_id": 1230,
+        "unit": "cup",
+        "amount": "1.25"
+    },
+    {
+        "recipe_id": 639578,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 639578,
+        "ingredient_id": 20081,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 639578,
+        "ingredient_id": 19335,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 639578,
+        "ingredient_id": 18334,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 639578,
+        "ingredient_id": 2050,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 646651,
+        "ingredient_id": 11090,
+        "unit": "medium head",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 646651,
+        "ingredient_id": 1002044,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 646651,
+        "ingredient_id": 4053,
+        "unit": "mL",
+        "amount": "60.00"
+    },
+    {
+        "recipe_id": 646651,
+        "ingredient_id": 11353,
+        "unit": "large",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 646651,
+        "ingredient_id": 1002030,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 646651,
+        "ingredient_id": 1055062,
+        "unit": "pounds",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 646651,
+        "ingredient_id": 11507,
+        "unit": "large",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 646651,
+        "ingredient_id": 1145,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 634753,
+        "ingredient_id": 14003,
+        "unit": "oz",
+        "amount": "12.00"
+    },
+    {
+        "recipe_id": 634753,
+        "ingredient_id": 2031,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634753,
+        "ingredient_id": 1032009,
+        "unit": "tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634753,
+        "ingredient_id": 11167,
+        "unit": "large",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634753,
+        "ingredient_id": 2042,
+        "unit": "tsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634753,
+        "ingredient_id": 10211215,
+        "unit": "lb",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634753,
+        "ingredient_id": 1022020,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 634753,
+        "ingredient_id": 11052,
+        "unit": "g",
+        "amount": "100.00"
+    },
+    {
+        "recipe_id": 634753,
+        "ingredient_id": 9152,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634753,
+        "ingredient_id": 4053,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 634753,
+        "ingredient_id": 2026,
+        "unit": "teaspoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 634753,
+        "ingredient_id": 11821,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 634753,
+        "ingredient_id": 2047,
+        "unit": "teaspoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 634753,
+        "ingredient_id": 1102047,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 634753,
+        "ingredient_id": 1012028,
+        "unit": "tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634753,
+        "ingredient_id": 5006,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 661533,
+        "ingredient_id": 10311529,
+        "unit": "",
+        "amount": "12.00"
+    },
+    {
+        "recipe_id": 661533,
+        "ingredient_id": 1019,
+        "unit": "g",
+        "amount": "180.00"
+    },
+    {
+        "recipe_id": 661533,
+        "ingredient_id": 2054,
+        "unit": "Tbs",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 661533,
+        "ingredient_id": 10211215,
+        "unit": "",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 661533,
+        "ingredient_id": 1002030,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 661533,
+        "ingredient_id": 4053,
+        "unit": "Tbs",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 661533,
+        "ingredient_id": 2044,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 661533,
+        "ingredient_id": 10010084,
+        "unit": "",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 661533,
+        "ingredient_id": 93697,
+        "unit": "Tbs",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 661533,
+        "ingredient_id": 20027,
+        "unit": "Tbs",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 661533,
+        "ingredient_id": 2003,
+        "unit": "Tbs",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 661533,
+        "ingredient_id": 1012047,
+        "unit": "tsp",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 661036,
+        "ingredient_id": 4053,
+        "unit": "tbsp",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 661036,
+        "ingredient_id": 1002010,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 661036,
+        "ingredient_id": 99226,
+        "unit": "",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 661036,
+        "ingredient_id": 11215,
+        "unit": "clove",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 661036,
+        "ingredient_id": 11282,
+        "unit": "cup",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 661036,
+        "ingredient_id": 11960,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 661036,
+        "ingredient_id": 6615,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 661036,
+        "ingredient_id": 2031,
+        "unit": "tsp",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 661036,
+        "ingredient_id": 20002,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 661036,
+        "ingredient_id": 2047,
+        "unit": "tsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 661036,
+        "ingredient_id": 12117,
+        "unit": "cups",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 661036,
+        "ingredient_id": 93602,
+        "unit": "tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 665537,
+        "ingredient_id": 1123,
+        "unit": "g",
+        "amount": "70.00"
+    },
+    {
+        "recipe_id": 665537,
+        "ingredient_id": 19296,
+        "unit": "g",
+        "amount": "20.00"
+    },
+    {
+        "recipe_id": 665537,
+        "ingredient_id": 19335,
+        "unit": "g",
+        "amount": "50.00"
+    },
+    {
+        "recipe_id": 665537,
+        "ingredient_id": 1001116,
+        "unit": "g",
+        "amount": "40.00"
+    },
+    {
+        "recipe_id": 665537,
+        "ingredient_id": 20081,
+        "unit": "g",
+        "amount": "90.00"
+    },
+    {
+        "recipe_id": 665537,
+        "ingredient_id": 18369,
+        "unit": "tsp",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 665537,
+        "ingredient_id": 1001,
+        "unit": "g",
+        "amount": "70.00"
+    },
+    {
+        "recipe_id": 637164,
+        "ingredient_id": 11124,
+        "unit": "",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 637164,
+        "ingredient_id": 11282,
+        "unit": "medium",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 637164,
+        "ingredient_id": 4053,
+        "unit": "tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 637164,
+        "ingredient_id": 1002013,
+        "unit": "tsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 637164,
+        "ingredient_id": 9206,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 637164,
+        "ingredient_id": 14412,
+        "unit": "cups",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 637164,
+        "ingredient_id": 2047,
+        "unit": "serving",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 637164,
+        "ingredient_id": 1002030,
+        "unit": "tsp",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 637164,
+        "ingredient_id": 11165,
+        "unit": "serving",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 715493,
+        "ingredient_id": 1022009,
+        "unit": "tsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 715493,
+        "ingredient_id": 2004,
+        "unit": "",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 715493,
+        "ingredient_id": 1001,
+        "unit": "Tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 715493,
+        "ingredient_id": 10016034,
+        "unit": "oz",
+        "amount": "30.00"
+    },
+    {
+        "recipe_id": 715493,
+        "ingredient_id": 10011693,
+        "unit": "oz",
+        "amount": "15.00"
+    },
+    {
+        "recipe_id": 715493,
+        "ingredient_id": 2031,
+        "unit": "tsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 715493,
+        "ingredient_id": 10011282,
+        "unit": "",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 715493,
+        "ingredient_id": 20444,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 715493,
+        "ingredient_id": 1017063,
+        "unit": "oz",
+        "amount": "18.00"
+    },
+    {
+        "recipe_id": 715493,
+        "ingredient_id": 14412,
+        "unit": "cups",
+        "amount": "2.50"
+    },
+    {
+        "recipe_id": 715493,
+        "ingredient_id": 2032,
+        "unit": "tsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 652886,
+        "ingredient_id": 11485,
+        "unit": "medium",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 652886,
+        "ingredient_id": 11643,
+        "unit": "small",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 652886,
+        "ingredient_id": 11135,
+        "unit": "head",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 652886,
+        "ingredient_id": 6615,
+        "unit": "cups",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 652886,
+        "ingredient_id": 10511282,
+        "unit": "large",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 652886,
+        "ingredient_id": 11215,
+        "unit": "cloves",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 652886,
+        "ingredient_id": 2015,
+        "unit": "teaspoons",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 652886,
+        "ingredient_id": 1001,
+        "unit": "tablespoons",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 652886,
+        "ingredient_id": 2031,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 652886,
+        "ingredient_id": 1102047,
+        "unit": "servings",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 633229,
+        "ingredient_id": 20081,
+        "unit": "cups",
+        "amount": "2.25"
+    },
+    {
+        "recipe_id": 633229,
+        "ingredient_id": 19335,
+        "unit": "cups",
+        "amount": "1.25"
+    },
+    {
+        "recipe_id": 633229,
+        "ingredient_id": 1001,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 633229,
+        "ingredient_id": 1077,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 633229,
+        "ingredient_id": 18369,
+        "unit": "teaspoons",
+        "amount": "2.50"
+    },
+    {
+        "recipe_id": 633229,
+        "ingredient_id": 2047,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 633229,
+        "ingredient_id": 1052050,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 633229,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 633229,
+        "ingredient_id": 19336,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 633229,
+        "ingredient_id": 1053,
+        "unit": "servings",
+        "amount": "12.00"
+    },
+    {
+        "recipe_id": 633229,
+        "ingredient_id": 1431111,
+        "unit": "servings",
+        "amount": "12.00"
+    },
+    {
+        "recipe_id": 633229,
+        "ingredient_id": 12104,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 633229,
+        "ingredient_id": 9200,
+        "unit": "servings",
+        "amount": "12.00"
+    },
+    {
+        "recipe_id": 664689,
+        "ingredient_id": 11209,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 664689,
+        "ingredient_id": 11477,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 664689,
+        "ingredient_id": 10211641,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 664689,
+        "ingredient_id": 11529,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 664689,
+        "ingredient_id": 11821,
+        "unit": "",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 664689,
+        "ingredient_id": 10011821,
+        "unit": "",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 664689,
+        "ingredient_id": 11282,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 664689,
+        "ingredient_id": 11215,
+        "unit": "cloves",
+        "amount": "5.00"
+    },
+    {
+        "recipe_id": 664689,
+        "ingredient_id": 2044,
+        "unit": "Tbsp",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 664689,
+        "ingredient_id": 2049,
+        "unit": "sprigs",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 664689,
+        "ingredient_id": 2027,
+        "unit": "tsp",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 664689,
+        "ingredient_id": 1034053,
+        "unit": "Tbsp",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 664689,
+        "ingredient_id": 1012047,
+        "unit": "tsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 641223,
+        "ingredient_id": 20081,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 641223,
+        "ingredient_id": 19335,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 641223,
+        "ingredient_id": 18369,
+        "unit": "teaspoons",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 641223,
+        "ingredient_id": 2047,
+        "unit": "teaspoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 641223,
+        "ingredient_id": 1032009,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 641223,
+        "ingredient_id": 1002014,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 641223,
+        "ingredient_id": 11165,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 641223,
+        "ingredient_id": 1123,
+        "unit": "large",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 641223,
+        "ingredient_id": 1001,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 641223,
+        "ingredient_id": 1053,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 641223,
+        "ingredient_id": 11174,
+        "unit": "oz",
+        "amount": "14.00"
+    },
+    {
+        "recipe_id": 641223,
+        "ingredient_id": 10011333,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 641223,
+        "ingredient_id": 11913,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 780001,
+        "ingredient_id": 1032028,
+        "unit": "tsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 780001,
+        "ingredient_id": 5062,
+        "unit": "oz",
+        "amount": "16.00"
+    },
+    {
+        "recipe_id": 780001,
+        "ingredient_id": 2044,
+        "unit": "cup",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 780001,
+        "ingredient_id": 11215,
+        "unit": "clove",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 780001,
+        "ingredient_id": 1062047,
+        "unit": "Tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 780001,
+        "ingredient_id": 4053,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 780001,
+        "ingredient_id": 1032,
+        "unit": "Tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 780001,
+        "ingredient_id": 1102047,
+        "unit": "servings",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 780001,
+        "ingredient_id": 11477,
+        "unit": "large",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 796873,
+        "ingredient_id": 8212,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 796873,
+        "ingredient_id": 9431,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 796873,
+        "ingredient_id": 2064,
+        "unit": "servings",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 796873,
+        "ingredient_id": 19296,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 796873,
+        "ingredient_id": 1118,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 660685,
+        "ingredient_id": 10310123,
+        "unit": "slices",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 660685,
+        "ingredient_id": 1002030,
+        "unit": "tsp",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 660685,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 660685,
+        "ingredient_id": 11250,
+        "unit": "cups",
+        "amount": "5.00"
+    },
+    {
+        "recipe_id": 660685,
+        "ingredient_id": 4025,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 660685,
+        "ingredient_id": 11304,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 660685,
+        "ingredient_id": 11821,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 660685,
+        "ingredient_id": 1056,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 660685,
+        "ingredient_id": 19335,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 660685,
+        "ingredient_id": 10011282,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 654913,
+        "ingredient_id": 2069,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 654913,
+        "ingredient_id": 2004,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 654913,
+        "ingredient_id": 1045062,
+        "unit": "",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 654913,
+        "ingredient_id": 6194,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 654913,
+        "ingredient_id": 20081,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 654913,
+        "ingredient_id": 10720420,
+        "unit": "pound",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 654913,
+        "ingredient_id": 11260,
+        "unit": "pound",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 654913,
+        "ingredient_id": 4053,
+        "unit": "teaspoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 654913,
+        "ingredient_id": 1002030,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 654913,
+        "ingredient_id": 2047,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 654913,
+        "ingredient_id": 2049,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 643125,
+        "ingredient_id": 1001,
+        "unit": "grams",
+        "amount": "120.00"
+    },
+    {
+        "recipe_id": 643125,
+        "ingredient_id": 1012035,
+        "unit": "tablespoons",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 643125,
+        "ingredient_id": 18373,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 643125,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 643125,
+        "ingredient_id": 20081,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 643125,
+        "ingredient_id": 10719335,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 643125,
+        "ingredient_id": 14214,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 643125,
+        "ingredient_id": 19336,
+        "unit": "servings",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 643125,
+        "ingredient_id": 19903,
+        "unit": "tablespoons",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 643125,
+        "ingredient_id": 2050,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 643125,
+        "ingredient_id": 1001053,
+        "unit": "cups",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 658725,
+        "ingredient_id": 19165,
+        "unit": "cups",
+        "amount": "5.00"
+    },
+    {
+        "recipe_id": 658725,
+        "ingredient_id": 1095,
+        "unit": "ounces",
+        "amount": "14.00"
+    },
+    {
+        "recipe_id": 658725,
+        "ingredient_id": 1053,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 658725,
+        "ingredient_id": 1049,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 658725,
+        "ingredient_id": 2050,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 658725,
+        "ingredient_id": 12061,
+        "unit": "cups",
+        "amount": "5.00"
+    },
+    {
+        "recipe_id": 658725,
+        "ingredient_id": 10119116,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716195,
+        "ingredient_id": 1032035,
+        "unit": "pinch",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716195,
+        "ingredient_id": 2031,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 716195,
+        "ingredient_id": 16056,
+        "unit": "cups",
+        "amount": "1.25"
+    },
+    {
+        "recipe_id": 716195,
+        "ingredient_id": 11156,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 716195,
+        "ingredient_id": 10211216,
+        "unit": "inch",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716195,
+        "ingredient_id": 10511297,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 716195,
+        "ingredient_id": 11215,
+        "unit": "cloves",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 716195,
+        "ingredient_id": 1002013,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 716195,
+        "ingredient_id": 1012014,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 716195,
+        "ingredient_id": 1002030,
+        "unit": "servings",
+        "amount": "12.00"
+    },
+    {
+        "recipe_id": 716195,
+        "ingredient_id": 9152,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716195,
+        "ingredient_id": 4053,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 716195,
+        "ingredient_id": 11819,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 716195,
+        "ingredient_id": 1012047,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716195,
+        "ingredient_id": 12698,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 716195,
+        "ingredient_id": 2043,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 635846,
+        "ingredient_id": 2004,
+        "unit": "",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 635846,
+        "ingredient_id": 11124,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 635846,
+        "ingredient_id": 11143,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 635846,
+        "ingredient_id": 20421,
+        "unit": "servings",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 635846,
+        "ingredient_id": 4002,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 635846,
+        "ingredient_id": 20081,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 635846,
+        "ingredient_id": 11282,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 635846,
+        "ingredient_id": 93778,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 635846,
+        "ingredient_id": 10211821,
+        "unit": "servings",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 635846,
+        "ingredient_id": 2047,
+        "unit": "servings",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 635846,
+        "ingredient_id": 11529,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 635846,
+        "ingredient_id": 14412,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 640508,
+        "ingredient_id": 1017,
+        "unit": "ounces",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 640508,
+        "ingredient_id": 11215,
+        "unit": "cloves",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 640508,
+        "ingredient_id": 11291,
+        "unit": "stalks",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 640508,
+        "ingredient_id": 1002030,
+        "unit": "servings",
+        "amount": "24.00"
+    },
+    {
+        "recipe_id": 640508,
+        "ingredient_id": 4053,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 640508,
+        "ingredient_id": 2047,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 640508,
+        "ingredient_id": 10311821,
+        "unit": "",
+        "amount": "12.00"
+    },
+    {
+        "recipe_id": 640508,
+        "ingredient_id": 12155,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 634553,
+        "ingredient_id": 1001,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 634553,
+        "ingredient_id": 14106,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 634553,
+        "ingredient_id": 1125,
+        "unit": "",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 634553,
+        "ingredient_id": 9152,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634553,
+        "ingredient_id": 11297,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634553,
+        "ingredient_id": 1102047,
+        "unit": "servings",
+        "amount": "10.00"
+    },
+    {
+        "recipe_id": 634553,
+        "ingredient_id": 11677,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 634553,
+        "ingredient_id": 2041,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634553,
+        "ingredient_id": 1042053,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716416,
+        "ingredient_id": 2069,
+        "unit": "T",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716416,
+        "ingredient_id": 1034053,
+        "unit": "t",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 716416,
+        "ingredient_id": 1019,
+        "unit": "ounces",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716416,
+        "ingredient_id": 10111529,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 716416,
+        "ingredient_id": 10011205,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716416,
+        "ingredient_id": 10011282,
+        "unit": "c",
+        "amount": "0.33"
+    },
+    {
+        "recipe_id": 716416,
+        "ingredient_id": 1102047,
+        "unit": "serving",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 664997,
+        "ingredient_id": 9037,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 664997,
+        "ingredient_id": 9326,
+        "unit": "lbs",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 664997,
+        "ingredient_id": 9160,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 664997,
+        "ingredient_id": 10011282,
+        "unit": "",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 664997,
+        "ingredient_id": 4053,
+        "unit": "tablespoons",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 664997,
+        "ingredient_id": 11165,
+        "unit": "bunch",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 664997,
+        "ingredient_id": 1102047,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 664697,
+        "ingredient_id": 18079,
+        "unit": "handfuls",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 664697,
+        "ingredient_id": 11156,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 664697,
+        "ingredient_id": 1123,
+        "unit": "medium",
+        "amount": "5.00"
+    },
+    {
+        "recipe_id": 664697,
+        "ingredient_id": 10211297,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 664697,
+        "ingredient_id": 1002030,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 664697,
+        "ingredient_id": 4669,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 644900,
+        "ingredient_id": 1145,
+        "unit": "cups",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 644900,
+        "ingredient_id": 10719335,
+        "unit": "cup",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 644900,
+        "ingredient_id": 1125,
+        "unit": "large",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 644900,
+        "ingredient_id": 12311111,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 644900,
+        "ingredient_id": 9156,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 644900,
+        "ingredient_id": 9152,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 644900,
+        "ingredient_id": 93620,
+        "unit": "cups",
+        "amount": "3.25"
+    },
+    {
+        "recipe_id": 644900,
+        "ingredient_id": 93626,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716425,
+        "ingredient_id": 11156,
+        "unit": "Tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716425,
+        "ingredient_id": 9152,
+        "unit": "Tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716425,
+        "ingredient_id": 4025,
+        "unit": "Tablespoons",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716425,
+        "ingredient_id": 4053,
+        "unit": "Tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 716425,
+        "ingredient_id": 11282,
+        "unit": "small",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 716425,
+        "ingredient_id": 1001256,
+        "unit": "cup",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 716425,
+        "ingredient_id": 11291,
+        "unit": "",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 716425,
+        "ingredient_id": 1012047,
+        "unit": "servings",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 716425,
+        "ingredient_id": 11677,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716425,
+        "ingredient_id": 1056,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 716429,
+        "ingredient_id": 1001,
+        "unit": "tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716429,
+        "ingredient_id": 10011135,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 716429,
+        "ingredient_id": 1038,
+        "unit": "tbsp",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 716429,
+        "ingredient_id": 1034053,
+        "unit": "tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716429,
+        "ingredient_id": 11215,
+        "unit": "cloves",
+        "amount": "5.00"
+    },
+    {
+        "recipe_id": 716429,
+        "ingredient_id": 10720420,
+        "unit": "ounces",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 716429,
+        "ingredient_id": 1032009,
+        "unit": "pinches",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 716429,
+        "ingredient_id": 1102047,
+        "unit": "servings",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 716429,
+        "ingredient_id": 11291,
+        "unit": "",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 716429,
+        "ingredient_id": 14106,
+        "unit": "tbsp",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 716429,
+        "ingredient_id": 99025,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 639637,
+        "ingredient_id": 1077,
+        "unit": "cup",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 639637,
+        "ingredient_id": 20129,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 639637,
+        "ingredient_id": 10819297,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 639637,
+        "ingredient_id": 1145,
+        "unit": "g",
+        "amount": "50.00"
+    },
+    {
+        "recipe_id": 651765,
+        "ingredient_id": 20081,
+        "unit": "cup",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 651765,
+        "ingredient_id": 9042,
+        "unit": "ounce",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 651765,
+        "ingredient_id": 1001,
+        "unit": "servings",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 651765,
+        "ingredient_id": 1123,
+        "unit": "large",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 651765,
+        "ingredient_id": 10719335,
+        "unit": "tablespoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 651765,
+        "ingredient_id": 1009150,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 651765,
+        "ingredient_id": 1009152,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 651765,
+        "ingredient_id": 1036,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 651765,
+        "ingredient_id": 2047,
+        "unit": "pinch",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 651765,
+        "ingredient_id": 14412,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 662285,
+        "ingredient_id": 11260,
+        "unit": "ounces",
+        "amount": "24.00"
+    },
+    {
+        "recipe_id": 662285,
+        "ingredient_id": 18079,
+        "unit": "Cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 662285,
+        "ingredient_id": 11916,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 662285,
+        "ingredient_id": 10311215,
+        "unit": "cloves",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 662285,
+        "ingredient_id": 1009195,
+        "unit": "Tbsp",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 662285,
+        "ingredient_id": 11282,
+        "unit": "medium",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 662285,
+        "ingredient_id": 11955,
+        "unit": "Tbsp",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 662285,
+        "ingredient_id": 4053,
+        "unit": "tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 662285,
+        "ingredient_id": 1026,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 662285,
+        "ingredient_id": 1035,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 662285,
+        "ingredient_id": 1001033,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 662285,
+        "ingredient_id": 1033,
+        "unit": "tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 662285,
+        "ingredient_id": 1038,
+        "unit": "tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 662285,
+        "ingredient_id": 1032009,
+        "unit": "pinch",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 662285,
+        "ingredient_id": 2027,
+        "unit": "tsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 662285,
+        "ingredient_id": 1017,
+        "unit": "oz",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 640136,
+        "ingredient_id": 2004,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 640136,
+        "ingredient_id": 1001,
+        "unit": "tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 640136,
+        "ingredient_id": 11109,
+        "unit": "lb",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 640136,
+        "ingredient_id": 11124,
+        "unit": "large",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 640136,
+        "ingredient_id": 2048,
+        "unit": "c",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 640136,
+        "ingredient_id": 10013346,
+        "unit": "lb",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 640136,
+        "ingredient_id": 20027,
+        "unit": "tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 640136,
+        "ingredient_id": 1002024,
+        "unit": "tsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 640136,
+        "ingredient_id": 1125,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 640136,
+        "ingredient_id": 10511297,
+        "unit": "bunch",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 640136,
+        "ingredient_id": 1002055,
+        "unit": "tsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 640136,
+        "ingredient_id": 10211352,
+        "unit": "lbs",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 640136,
+        "ingredient_id": 11282,
+        "unit": "medium",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 640136,
+        "ingredient_id": 1002030,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 640136,
+        "ingredient_id": 2047,
+        "unit": "tsp",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 640136,
+        "ingredient_id": 19335,
+        "unit": "tsp",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 640136,
+        "ingredient_id": 14412,
+        "unit": "c",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 639571,
+        "ingredient_id": 10123,
+        "unit": "lb",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 639571,
+        "ingredient_id": 4053,
+        "unit": "Tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 639571,
+        "ingredient_id": 10023618,
+        "unit": "lbs",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 639571,
+        "ingredient_id": 11215,
+        "unit": "cloves",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 639571,
+        "ingredient_id": 11282,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 639571,
+        "ingredient_id": 1012049,
+        "unit": "sprigs",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 639571,
+        "ingredient_id": 2004,
+        "unit": "",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 639571,
+        "ingredient_id": 11297,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 639571,
+        "ingredient_id": 10111282,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 639571,
+        "ingredient_id": 11260,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 639571,
+        "ingredient_id": 11124,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 639571,
+        "ingredient_id": 14099,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 639571,
+        "ingredient_id": 6008,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 639571,
+        "ingredient_id": 20081,
+        "unit": "Tbsp",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 639571,
+        "ingredient_id": 1102047,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 716342,
+        "ingredient_id": 1032027,
+        "unit": "Tablespoons",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 716342,
+        "ingredient_id": 5006,
+        "unit": "pound",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716342,
+        "ingredient_id": 2009,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716342,
+        "ingredient_id": 4582,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716342,
+        "ingredient_id": 99186,
+        "unit": "serving",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716342,
+        "ingredient_id": 11282,
+        "unit": "serving",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716342,
+        "ingredient_id": 2047,
+        "unit": "serving",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 632085,
+        "ingredient_id": 18369,
+        "unit": "tablespoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 632085,
+        "ingredient_id": 18372,
+        "unit": "teaspoon",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 632085,
+        "ingredient_id": 19165,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 632085,
+        "ingredient_id": 4615,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 632085,
+        "ingredient_id": 93658,
+        "unit": "teaspoons",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 632085,
+        "ingredient_id": 93620,
+        "unit": "cups",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 632085,
+        "ingredient_id": 10719335,
+        "unit": "cup",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 632085,
+        "ingredient_id": 1022050,
+        "unit": "teaspoons",
+        "amount": "3.75"
+    },
+    {
+        "recipe_id": 632085,
+        "ingredient_id": 2047,
+        "unit": "servings",
+        "amount": "100.00"
+    },
+    {
+        "recipe_id": 632085,
+        "ingredient_id": 9019,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 632085,
+        "ingredient_id": 2050,
+        "unit": "teaspoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 632085,
+        "ingredient_id": 93626,
+        "unit": "teaspoon",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 644604,
+        "ingredient_id": 18372,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 644604,
+        "ingredient_id": 1001,
+        "unit": "cup",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 644604,
+        "ingredient_id": 2010,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 644604,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 644604,
+        "ingredient_id": 20081,
+        "unit": "cups",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 644604,
+        "ingredient_id": 10719335,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 644604,
+        "ingredient_id": 2021,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 644604,
+        "ingredient_id": 19304,
+        "unit": "cup",
+        "amount": "0.13"
+    },
+    {
+        "recipe_id": 644604,
+        "ingredient_id": 2047,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 644604,
+        "ingredient_id": 19335,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 631830,
+        "ingredient_id": 18369,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 631830,
+        "ingredient_id": 1014582,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 631830,
+        "ingredient_id": 10112155,
+        "unit": "cup",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 631830,
+        "ingredient_id": 10019903,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 631830,
+        "ingredient_id": 19335,
+        "unit": "cup",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 631830,
+        "ingredient_id": 10020081,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 631830,
+        "ingredient_id": 9019,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 631830,
+        "ingredient_id": 2050,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 636901,
+        "ingredient_id": 10716050,
+        "unit": "cups",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 636901,
+        "ingredient_id": 1034053,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 636901,
+        "ingredient_id": 11957,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 636901,
+        "ingredient_id": 10311297,
+        "unit": "leaf",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 636901,
+        "ingredient_id": 10011282,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 636901,
+        "ingredient_id": 2037,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 636901,
+        "ingredient_id": 1002030,
+        "unit": "servings",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 636901,
+        "ingredient_id": 6615,
+        "unit": "servings",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 636901,
+        "ingredient_id": 14412,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 661757,
+        "ingredient_id": 2044,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 661757,
+        "ingredient_id": 9152,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 661757,
+        "ingredient_id": 90480,
+        "unit": "cups",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 661757,
+        "ingredient_id": 9316,
+        "unit": "grams",
+        "amount": "400.00"
+    },
+    {
+        "recipe_id": 640730,
+        "ingredient_id": 1123,
+        "unit": "large",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 640730,
+        "ingredient_id": 1125,
+        "unit": "",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 640730,
+        "ingredient_id": 1077,
+        "unit": "g",
+        "amount": "120.00"
+    },
+    {
+        "recipe_id": 640730,
+        "ingredient_id": 19335,
+        "unit": "g",
+        "amount": "40.00"
+    },
+    {
+        "recipe_id": 640730,
+        "ingredient_id": 93622,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 640730,
+        "ingredient_id": 1001053,
+        "unit": "g",
+        "amount": "250.00"
+    },
+    {
+        "recipe_id": 661340,
+        "ingredient_id": 10112061,
+        "unit": "tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 661340,
+        "ingredient_id": 2069,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 661340,
+        "ingredient_id": 5114,
+        "unit": "oz",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 661340,
+        "ingredient_id": 1032046,
+        "unit": "tsp",
+        "amount": "1.25"
+    },
+    {
+        "recipe_id": 661340,
+        "ingredient_id": 1019,
+        "unit": "oz",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 661340,
+        "ingredient_id": 1012049,
+        "unit": "tsp",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 661340,
+        "ingredient_id": 1002030,
+        "unit": "tsp",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 661340,
+        "ingredient_id": 11677,
+        "unit": "",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 661340,
+        "ingredient_id": 10011457,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 661340,
+        "ingredient_id": 9316,
+        "unit": "cup",
+        "amount": "0.67"
+    },
+    {
+        "recipe_id": 661340,
+        "ingredient_id": 14412,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 631843,
+        "ingredient_id": 93711,
+        "unit": "pound",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 631843,
+        "ingredient_id": 6194,
+        "unit": "cups",
+        "amount": "5.00"
+    },
+    {
+        "recipe_id": 631843,
+        "ingredient_id": 5062,
+        "unit": "",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 631843,
+        "ingredient_id": 20027,
+        "unit": "tablespoons",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 631843,
+        "ingredient_id": 14412,
+        "unit": "tablespoons",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 631843,
+        "ingredient_id": 11168,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 631843,
+        "ingredient_id": 10211821,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 631843,
+        "ingredient_id": 11282,
+        "unit": "",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 631843,
+        "ingredient_id": 11215,
+        "unit": "cloves",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 631843,
+        "ingredient_id": 10011980,
+        "unit": "can",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 631843,
+        "ingredient_id": 11529,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 631843,
+        "ingredient_id": 9159,
+        "unit": "",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 631843,
+        "ingredient_id": 1002014,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 631843,
+        "ingredient_id": 2009,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 631843,
+        "ingredient_id": 2027,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 631843,
+        "ingredient_id": 1032009,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 631843,
+        "ingredient_id": 1002030,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 631843,
+        "ingredient_id": 11165,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 631843,
+        "ingredient_id": 2047,
+        "unit": "servings",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 642303,
+        "ingredient_id": 11209,
+        "unit": "large",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 642303,
+        "ingredient_id": 11529,
+        "unit": "Tbs",
+        "amount": "10.00"
+    },
+    {
+        "recipe_id": 642303,
+        "ingredient_id": 1040,
+        "unit": "g",
+        "amount": "100.00"
+    },
+    {
+        "recipe_id": 642303,
+        "ingredient_id": 2044,
+        "unit": "servings",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 652433,
+        "ingredient_id": 1055062,
+        "unit": "pound",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 652433,
+        "ingredient_id": 9150,
+        "unit": "servings",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 652433,
+        "ingredient_id": 11297,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 652433,
+        "ingredient_id": 2063,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 652433,
+        "ingredient_id": 1012049,
+        "unit": "teaspoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 652433,
+        "ingredient_id": 11215,
+        "unit": "cloves",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 652433,
+        "ingredient_id": 1022030,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 652433,
+        "ingredient_id": 9152,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 652433,
+        "ingredient_id": 4053,
+        "unit": "teaspoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 638831,
+        "ingredient_id": 1145,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 638831,
+        "ingredient_id": 20081,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 638831,
+        "ingredient_id": 19165,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 638831,
+        "ingredient_id": 18372,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 638831,
+        "ingredient_id": 18369,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 638831,
+        "ingredient_id": 2047,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 638831,
+        "ingredient_id": 19334,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 638831,
+        "ingredient_id": 10719335,
+        "unit": "tablespoons",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 638831,
+        "ingredient_id": 2050,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 638831,
+        "ingredient_id": 14214,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 638831,
+        "ingredient_id": 1123,
+        "unit": "large",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 638831,
+        "ingredient_id": 11477,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 638831,
+        "ingredient_id": 9040,
+        "unit": "large",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 638831,
+        "ingredient_id": 10019071,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 638831,
+        "ingredient_id": 19335,
+        "unit": "servings",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 659465,
+        "ingredient_id": 20081,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 659465,
+        "ingredient_id": 35137,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 659465,
+        "ingredient_id": 18369,
+        "unit": "packet",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 659465,
+        "ingredient_id": 2047,
+        "unit": "tsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 659465,
+        "ingredient_id": 11156,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 659465,
+        "ingredient_id": 1012,
+        "unit": "g",
+        "amount": "200.00"
+    },
+    {
+        "recipe_id": 659465,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 659465,
+        "ingredient_id": 4582,
+        "unit": "Tbs",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 659465,
+        "ingredient_id": 1077,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 659465,
+        "ingredient_id": 14384,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 715588,
+        "ingredient_id": 1053,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 715588,
+        "ingredient_id": 1002035,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 715588,
+        "ingredient_id": 2047,
+        "unit": "pinch",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 715588,
+        "ingredient_id": 19335,
+        "unit": "cup",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 715588,
+        "ingredient_id": 1052050,
+        "unit": "teaspoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 715588,
+        "ingredient_id": 1011077,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 651987,
+        "ingredient_id": 10123,
+        "unit": "strips",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 651987,
+        "ingredient_id": 10611282,
+        "unit": "small",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 651987,
+        "ingredient_id": 11477,
+        "unit": "cups",
+        "amount": "3.50"
+    },
+    {
+        "recipe_id": 651987,
+        "ingredient_id": 1022,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 651987,
+        "ingredient_id": 20081,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 651987,
+        "ingredient_id": 18369,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 651987,
+        "ingredient_id": 4669,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 651987,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "5.00"
+    },
+    {
+        "recipe_id": 651987,
+        "ingredient_id": 1102047,
+        "unit": "servings",
+        "amount": "12.00"
+    },
+    {
+        "recipe_id": 651987,
+        "ingredient_id": 1001,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 651987,
+        "ingredient_id": 18079,
+        "unit": "servings",
+        "amount": "12.00"
+    },
+    {
+        "recipe_id": 634588,
+        "ingredient_id": 10123,
+        "unit": "pound",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 634588,
+        "ingredient_id": 13786,
+        "unit": "lb",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 634588,
+        "ingredient_id": 11124,
+        "unit": "medium",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634588,
+        "ingredient_id": 10111143,
+        "unit": "rib",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 634588,
+        "ingredient_id": 14096,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 634588,
+        "ingredient_id": 10211215,
+        "unit": "",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 634588,
+        "ingredient_id": 4053,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634588,
+        "ingredient_id": 11282,
+        "unit": "medium",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634588,
+        "ingredient_id": 1002030,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 634588,
+        "ingredient_id": 2036,
+        "unit": "sprigs",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 634588,
+        "ingredient_id": 2047,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634588,
+        "ingredient_id": 2049,
+        "unit": "sprigs",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 634588,
+        "ingredient_id": 11887,
+        "unit": "teaspoons",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 634588,
+        "ingredient_id": 14412,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 655525,
+        "ingredient_id": 19334,
+        "unit": "Tbs",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 655525,
+        "ingredient_id": 1001,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 655525,
+        "ingredient_id": 1053,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 655525,
+        "ingredient_id": 19911,
+        "unit": "tsp",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 655525,
+        "ingredient_id": 12142,
+        "unit": "ounces",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 655525,
+        "ingredient_id": 93770,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 655525,
+        "ingredient_id": 11426,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 655525,
+        "ingredient_id": 1002035,
+        "unit": "tsp",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 653149,
+        "ingredient_id": 9078,
+        "unit": "ounce",
+        "amount": "12.00"
+    },
+    {
+        "recipe_id": 653149,
+        "ingredient_id": 9200,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 653149,
+        "ingredient_id": 19335,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 653149,
+        "ingredient_id": 10012142,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 632790,
+        "ingredient_id": 11959,
+        "unit": "handfuls",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 632790,
+        "ingredient_id": 11215,
+        "unit": "cloves",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 632790,
+        "ingredient_id": 12155,
+        "unit": "small handful",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 632790,
+        "ingredient_id": 1034053,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 632790,
+        "ingredient_id": 9152,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 632790,
+        "ingredient_id": 1033,
+        "unit": "small handful",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 632790,
+        "ingredient_id": 1102047,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 633078,
+        "ingredient_id": 1002050,
+        "unit": "t",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 633078,
+        "ingredient_id": 18369,
+        "unit": "t",
+        "amount": "2.50"
+    },
+    {
+        "recipe_id": 633078,
+        "ingredient_id": 18372,
+        "unit": "t",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 633078,
+        "ingredient_id": 20081,
+        "unit": "c",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 633078,
+        "ingredient_id": 2047,
+        "unit": "t",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 633078,
+        "ingredient_id": 19335,
+        "unit": "c",
+        "amount": "1.25"
+    },
+    {
+        "recipe_id": 633078,
+        "ingredient_id": 12061,
+        "unit": "c",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 633078,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 659927,
+        "ingredient_id": 15270,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 659927,
+        "ingredient_id": 10015243,
+        "unit": "gr",
+        "amount": "600.00"
+    },
+    {
+        "recipe_id": 659927,
+        "ingredient_id": 10211215,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 659927,
+        "ingredient_id": 4053,
+        "unit": "tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 659927,
+        "ingredient_id": 9160,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 659927,
+        "ingredient_id": 1102047,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 659927,
+        "ingredient_id": 21052,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 659927,
+        "ingredient_id": 10111251,
+        "unit": "leaves",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 659927,
+        "ingredient_id": 2044,
+        "unit": "",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 659927,
+        "ingredient_id": 10111168,
+        "unit": "gr",
+        "amount": "200.00"
+    },
+    {
+        "recipe_id": 659927,
+        "ingredient_id": 11291,
+        "unit": "",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 659927,
+        "ingredient_id": 9266,
+        "unit": "gr",
+        "amount": "600.00"
+    },
+    {
+        "recipe_id": 659927,
+        "ingredient_id": 9037,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 659927,
+        "ingredient_id": 43016,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 659927,
+        "ingredient_id": 19296,
+        "unit": "",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 663314,
+        "ingredient_id": 16072,
+        "unit": "g",
+        "amount": "500.00"
+    },
+    {
+        "recipe_id": 663314,
+        "ingredient_id": 11282,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 663314,
+        "ingredient_id": 10211215,
+        "unit": "",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 663314,
+        "ingredient_id": 2041,
+        "unit": "tsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 663314,
+        "ingredient_id": 1002028,
+        "unit": "tbsp",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 663314,
+        "ingredient_id": 2004,
+        "unit": "",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 663314,
+        "ingredient_id": 4584,
+        "unit": "tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 663314,
+        "ingredient_id": 1002030,
+        "unit": "tsp",
+        "amount": "0.33"
+    },
+    {
+        "recipe_id": 663314,
+        "ingredient_id": 1012047,
+        "unit": "servings",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 654935,
+        "ingredient_id": 1001,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 654935,
+        "ingredient_id": 10011693,
+        "unit": "kilo",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 654935,
+        "ingredient_id": 10120420,
+        "unit": "box",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 654935,
+        "ingredient_id": 1007036,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 654935,
+        "ingredient_id": 4053,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 654935,
+        "ingredient_id": 11304,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 654935,
+        "ingredient_id": 1102047,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 654935,
+        "ingredient_id": 11549,
+        "unit": "oz",
+        "amount": "26.00"
+    },
+    {
+        "recipe_id": 1098354,
+        "ingredient_id": 99246,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 1098354,
+        "ingredient_id": 18363,
+        "unit": "small",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 1098354,
+        "ingredient_id": 16202,
+        "unit": "can",
+        "amount": "0.33"
+    },
+    {
+        "recipe_id": 1098354,
+        "ingredient_id": 11529,
+        "unit": "",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 1098354,
+        "ingredient_id": 11979,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 1098354,
+        "ingredient_id": 11252,
+        "unit": "servings",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 1098354,
+        "ingredient_id": 1001019,
+        "unit": "servings",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 1098354,
+        "ingredient_id": 9159,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 1098354,
+        "ingredient_id": 1009037,
+        "unit": "teaspoons",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 1098354,
+        "ingredient_id": 6164,
+        "unit": "servings",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 633779,
+        "ingredient_id": 10115076,
+        "unit": "grams",
+        "amount": "350.00"
+    },
+    {
+        "recipe_id": 633779,
+        "ingredient_id": 11291,
+        "unit": "stalk",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 633779,
+        "ingredient_id": 11216,
+        "unit": "grams",
+        "amount": "5.00"
+    },
+    {
+        "recipe_id": 633779,
+        "ingredient_id": 11819,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 633779,
+        "ingredient_id": 14084,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 633779,
+        "ingredient_id": 1009159,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 633779,
+        "ingredient_id": 9160,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 633779,
+        "ingredient_id": 1022030,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 633779,
+        "ingredient_id": 1001,
+        "unit": "grams",
+        "amount": "5.00"
+    },
+    {
+        "recipe_id": 637658,
+        "ingredient_id": 11090,
+        "unit": "g",
+        "amount": "150.00"
+    },
+    {
+        "recipe_id": 637658,
+        "ingredient_id": 19348,
+        "unit": "g",
+        "amount": "300.00"
+    },
+    {
+        "recipe_id": 637658,
+        "ingredient_id": 10120499,
+        "unit": "g",
+        "amount": "250.00"
+    },
+    {
+        "recipe_id": 637658,
+        "ingredient_id": 10151,
+        "unit": "slices",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 637658,
+        "ingredient_id": 11260,
+        "unit": "",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 637658,
+        "ingredient_id": 1034053,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 637658,
+        "ingredient_id": 1033,
+        "unit": "oz",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 637658,
+        "ingredient_id": 15270,
+        "unit": "medium",
+        "amount": "10.00"
+    },
+    {
+        "recipe_id": 637658,
+        "ingredient_id": 14412,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 665391,
+        "ingredient_id": 93740,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 665391,
+        "ingredient_id": 20003,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 665391,
+        "ingredient_id": 18369,
+        "unit": "tsp",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 665391,
+        "ingredient_id": 2010,
+        "unit": "tsp",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 665391,
+        "ingredient_id": 93747,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 665391,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 665391,
+        "ingredient_id": 12115,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 665391,
+        "ingredient_id": 1032006,
+        "unit": "teaspoons",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 665391,
+        "ingredient_id": 9152,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 665391,
+        "ingredient_id": 19911,
+        "unit": "tbsp",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 665391,
+        "ingredient_id": 9252,
+        "unit": "medium",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 665391,
+        "ingredient_id": 1012047,
+        "unit": "large pinches",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 665391,
+        "ingredient_id": 1032027,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 665391,
+        "ingredient_id": 19908,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 665391,
+        "ingredient_id": 19335,
+        "unit": "servings",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 665391,
+        "ingredient_id": 2050,
+        "unit": "teaspoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 665391,
+        "ingredient_id": 1145,
+        "unit": "tbsp",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 664011,
+        "ingredient_id": 11124,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 664011,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 664011,
+        "ingredient_id": 11215,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 664011,
+        "ingredient_id": 11291,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 664011,
+        "ingredient_id": 5662,
+        "unit": "lb",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 664011,
+        "ingredient_id": 10018079,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 664011,
+        "ingredient_id": 11821,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 664011,
+        "ingredient_id": 1102047,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 664011,
+        "ingredient_id": 1012028,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 664011,
+        "ingredient_id": 10011457,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 664011,
+        "ingredient_id": 11887,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 664011,
+        "ingredient_id": 11477,
+        "unit": "medium",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 653169,
+        "ingredient_id": 1001,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 653169,
+        "ingredient_id": 19081,
+        "unit": "",
+        "amount": "15.00"
+    },
+    {
+        "recipe_id": 653169,
+        "ingredient_id": 10018617,
+        "unit": "cups",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 653169,
+        "ingredient_id": 16098,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 653169,
+        "ingredient_id": 19336,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 660222,
+        "ingredient_id": 11960,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 660222,
+        "ingredient_id": 10028033,
+        "unit": "cup",
+        "amount": "0.13"
+    },
+    {
+        "recipe_id": 660222,
+        "ingredient_id": 2031,
+        "unit": "tsp",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 660222,
+        "ingredient_id": 16157,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 660222,
+        "ingredient_id": 11165,
+        "unit": "tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 660222,
+        "ingredient_id": 2047,
+        "unit": "tsp",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 660222,
+        "ingredient_id": 1016168,
+        "unit": "tbsp",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 660222,
+        "ingredient_id": 14412,
+        "unit": "cup",
+        "amount": "0.13"
+    },
+    {
+        "recipe_id": 645427,
+        "ingredient_id": 1001,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 645427,
+        "ingredient_id": 11168,
+        "unit": "ounces",
+        "amount": "16.00"
+    },
+    {
+        "recipe_id": 645427,
+        "ingredient_id": 1021009,
+        "unit": "cups",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 645427,
+        "ingredient_id": 31015,
+        "unit": "ounces",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 645427,
+        "ingredient_id": 18376,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 645427,
+        "ingredient_id": 1082047,
+        "unit": "servings",
+        "amount": "10.00"
+    },
+    {
+        "recipe_id": 645427,
+        "ingredient_id": 1077,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 645427,
+        "ingredient_id": 1056,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 645427,
+        "ingredient_id": 2049,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 657968,
+        "ingredient_id": 11124,
+        "unit": "",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 657968,
+        "ingredient_id": 9299,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 657968,
+        "ingredient_id": 9032,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 657968,
+        "ingredient_id": 9426,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 657968,
+        "ingredient_id": 9087,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 657968,
+        "ingredient_id": 93740,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 657968,
+        "ingredient_id": 12108,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 657968,
+        "ingredient_id": 2021,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 657968,
+        "ingredient_id": 1012010,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 657968,
+        "ingredient_id": 1002011,
+        "unit": "",
+        "amount": "5.00"
+    },
+    {
+        "recipe_id": 632241,
+        "ingredient_id": 1006,
+        "unit": "oz",
+        "amount": "5.00"
+    },
+    {
+        "recipe_id": 632241,
+        "ingredient_id": 11156,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 632241,
+        "ingredient_id": 1034053,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 632241,
+        "ingredient_id": 11215,
+        "unit": "teaspoon",
+        "amount": "0.13"
+    },
+    {
+        "recipe_id": 632241,
+        "ingredient_id": 9206,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 632241,
+        "ingredient_id": 9216,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 632241,
+        "ingredient_id": 93817,
+        "unit": "oz",
+        "amount": "4.20"
+    },
+    {
+        "recipe_id": 632241,
+        "ingredient_id": 1032009,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 634180,
+        "ingredient_id": 93607,
+        "unit": "cup",
+        "amount": "0.67"
+    },
+    {
+        "recipe_id": 634180,
+        "ingredient_id": 9040,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634180,
+        "ingredient_id": 19081,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 634180,
+        "ingredient_id": 14209,
+        "unit": "teaspoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 634180,
+        "ingredient_id": 19296,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 644848,
+        "ingredient_id": 19912,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 644848,
+        "ingredient_id": 18369,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 644848,
+        "ingredient_id": 93740,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 644848,
+        "ingredient_id": 1123,
+        "unit": "large",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 644848,
+        "ingredient_id": 1077,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 644848,
+        "ingredient_id": 2047,
+        "unit": "pinch",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 644848,
+        "ingredient_id": 93696,
+        "unit": "cup",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 644848,
+        "ingredient_id": 1052050,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 644848,
+        "ingredient_id": 14412,
+        "unit": "cups",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 644848,
+        "ingredient_id": 2053,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 644848,
+        "ingredient_id": 93626,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 639737,
+        "ingredient_id": 4047,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 639737,
+        "ingredient_id": 11282,
+        "unit": "medium",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 639737,
+        "ingredient_id": 11124,
+        "unit": "large",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 639737,
+        "ingredient_id": 2047,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 639737,
+        "ingredient_id": 1002030,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 639737,
+        "ingredient_id": 11215,
+        "unit": "cloves",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 639737,
+        "ingredient_id": 6172,
+        "unit": "cups",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 639737,
+        "ingredient_id": 11216,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 639737,
+        "ingredient_id": 12117,
+        "unit": "can",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649264,
+        "ingredient_id": 2044,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 649264,
+        "ingredient_id": 10011250,
+        "unit": "head",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649264,
+        "ingredient_id": 11819,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649264,
+        "ingredient_id": 6172,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649264,
+        "ingredient_id": 6179,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649264,
+        "ingredient_id": 11165,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 649264,
+        "ingredient_id": 11215,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649264,
+        "ingredient_id": 11216,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649264,
+        "ingredient_id": 11291,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649264,
+        "ingredient_id": 10219,
+        "unit": "pound",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649264,
+        "ingredient_id": 9160,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 649264,
+        "ingredient_id": 2064,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649264,
+        "ingredient_id": 11677,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 649264,
+        "ingredient_id": 19335,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 716198,
+        "ingredient_id": 1032006,
+        "unit": "pinch",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716198,
+        "ingredient_id": 31015,
+        "unit": "small",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716198,
+        "ingredient_id": 9160,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716198,
+        "ingredient_id": 9302,
+        "unit": "cups",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 716198,
+        "ingredient_id": 10719297,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 716198,
+        "ingredient_id": 1009135,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 716379,
+        "ingredient_id": 20081,
+        "unit": "cups",
+        "amount": "2.67"
+    },
+    {
+        "recipe_id": 716379,
+        "ingredient_id": 18369,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 716379,
+        "ingredient_id": 18372,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 716379,
+        "ingredient_id": 9040,
+        "unit": "",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 716379,
+        "ingredient_id": 1001,
+        "unit": "tablespoon",
+        "amount": "9.00"
+    },
+    {
+        "recipe_id": 716379,
+        "ingredient_id": 12108,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 716379,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 716379,
+        "ingredient_id": 2047,
+        "unit": "pinch",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716379,
+        "ingredient_id": 19903,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 716379,
+        "ingredient_id": 19335,
+        "unit": "cups",
+        "amount": "3.67"
+    },
+    {
+        "recipe_id": 662917,
+        "ingredient_id": 18079,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 662917,
+        "ingredient_id": 19334,
+        "unit": "Tbs",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 662917,
+        "ingredient_id": 7063,
+        "unit": "lb",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 662917,
+        "ingredient_id": 11549,
+        "unit": "oz",
+        "amount": "16.00"
+    },
+    {
+        "recipe_id": 662917,
+        "ingredient_id": 2048,
+        "unit": "Tbs",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 662917,
+        "ingredient_id": 1002014,
+        "unit": "tsp",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 662917,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 662917,
+        "ingredient_id": 1022020,
+        "unit": "tsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 662917,
+        "ingredient_id": 10023572,
+        "unit": "lb",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 662917,
+        "ingredient_id": 11282,
+        "unit": "small",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 662917,
+        "ingredient_id": 1002030,
+        "unit": "tsp",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 662917,
+        "ingredient_id": 2047,
+        "unit": "tsp",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 662917,
+        "ingredient_id": 14412,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 662917,
+        "ingredient_id": 1012046,
+        "unit": "Tbs",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 662917,
+        "ingredient_id": 6971,
+        "unit": "Tbs",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 645479,
+        "ingredient_id": 93607,
+        "unit": "cup",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 645479,
+        "ingredient_id": 9037,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 645479,
+        "ingredient_id": 11457,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 645479,
+        "ingredient_id": 9040,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 645479,
+        "ingredient_id": 19296,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 645479,
+        "ingredient_id": 9176,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 636385,
+        "ingredient_id": 93607,
+        "unit": "tablespoons",
+        "amount": "5.00"
+    },
+    {
+        "recipe_id": 636385,
+        "ingredient_id": 18369,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 636385,
+        "ingredient_id": 18372,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 636385,
+        "ingredient_id": 9040,
+        "unit": "medium",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 636385,
+        "ingredient_id": 20011,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 636385,
+        "ingredient_id": 2010,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 636385,
+        "ingredient_id": 10012220,
+        "unit": "tablespoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 636385,
+        "ingredient_id": 19911,
+        "unit": "tablespoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 636385,
+        "ingredient_id": 4582,
+        "unit": "tablespoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 636385,
+        "ingredient_id": 1001116,
+        "unit": "tablespoons",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 636385,
+        "ingredient_id": 8120,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 636385,
+        "ingredient_id": 2047,
+        "unit": "teaspoon",
+        "amount": "0.13"
+    },
+    {
+        "recipe_id": 636385,
+        "ingredient_id": 1052050,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 715438,
+        "ingredient_id": 5062,
+        "unit": "",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 715438,
+        "ingredient_id": 9144,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 715438,
+        "ingredient_id": 6016,
+        "unit": "oz",
+        "amount": "10.00"
+    },
+    {
+        "recipe_id": 715438,
+        "ingredient_id": 6147,
+        "unit": "oz",
+        "amount": "10.00"
+    },
+    {
+        "recipe_id": 715438,
+        "ingredient_id": 11282,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 715438,
+        "ingredient_id": 20444,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 715438,
+        "ingredient_id": 6164,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 715438,
+        "ingredient_id": 1001009,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 632101,
+        "ingredient_id": 1001,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 632101,
+        "ingredient_id": 19336,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 632101,
+        "ingredient_id": 10018617,
+        "unit": "cups",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 632101,
+        "ingredient_id": 12195,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 632101,
+        "ingredient_id": 19904,
+        "unit": "ounces",
+        "amount": "12.00"
+    },
+    {
+        "recipe_id": 642272,
+        "ingredient_id": 99242,
+        "unit": "can",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 642272,
+        "ingredient_id": 20090,
+        "unit": "tablespoons",
+        "amount": "10.00"
+    },
+    {
+        "recipe_id": 642272,
+        "ingredient_id": 1032009,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 642272,
+        "ingredient_id": 11209,
+        "unit": "medium",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 642272,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 642272,
+        "ingredient_id": 2063,
+        "unit": "teaspoons",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 642272,
+        "ingredient_id": 10211215,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 642272,
+        "ingredient_id": 1159,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 642272,
+        "ingredient_id": 10211821,
+        "unit": "servings",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 642272,
+        "ingredient_id": 1012047,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 638797,
+        "ingredient_id": 20081,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 638797,
+        "ingredient_id": 18369,
+        "unit": "teaspoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 638797,
+        "ingredient_id": 1001,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 638797,
+        "ingredient_id": 19081,
+        "unit": "ounces",
+        "amount": "3.50"
+    },
+    {
+        "recipe_id": 638797,
+        "ingredient_id": 19165,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 638797,
+        "ingredient_id": 1053,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 638797,
+        "ingredient_id": 18373,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 638797,
+        "ingredient_id": 10019165,
+        "unit": "",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 638797,
+        "ingredient_id": 1124,
+        "unit": "",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 638797,
+        "ingredient_id": 1125,
+        "unit": "",
+        "amount": "5.00"
+    },
+    {
+        "recipe_id": 638797,
+        "ingredient_id": 19336,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 638797,
+        "ingredient_id": 2047,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 638797,
+        "ingredient_id": 19335,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 638797,
+        "ingredient_id": 1052050,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 638797,
+        "ingredient_id": 4669,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 638797,
+        "ingredient_id": 14412,
+        "unit": "cup",
+        "amount": "0.67"
+    },
+    {
+        "recipe_id": 654241,
+        "ingredient_id": 1019,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 654241,
+        "ingredient_id": 11215,
+        "unit": "cloves",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 654241,
+        "ingredient_id": 11549,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 654241,
+        "ingredient_id": 1028,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 654241,
+        "ingredient_id": 1051009,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 658579,
+        "ingredient_id": 11213,
+        "unit": "heads",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 658579,
+        "ingredient_id": 10311215,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 658579,
+        "ingredient_id": 10010123,
+        "unit": "slices",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 658579,
+        "ingredient_id": 9094,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 658579,
+        "ingredient_id": 12151,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 658579,
+        "ingredient_id": 19296,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 716627,
+        "ingredient_id": 16018,
+        "unit": "ounce",
+        "amount": "15.00"
+    },
+    {
+        "recipe_id": 716627,
+        "ingredient_id": 10011693,
+        "unit": "ounce",
+        "amount": "10.00"
+    },
+    {
+        "recipe_id": 716627,
+        "ingredient_id": 2009,
+        "unit": "tsp",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 716627,
+        "ingredient_id": 1002014,
+        "unit": "tsp",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 716627,
+        "ingredient_id": 1002030,
+        "unit": "tsp",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 716627,
+        "ingredient_id": 6168,
+        "unit": "dashes",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 716627,
+        "ingredient_id": 4053,
+        "unit": "tsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 716627,
+        "ingredient_id": 11282,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 716627,
+        "ingredient_id": 20444,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 716627,
+        "ingredient_id": 14412,
+        "unit": "Tbsp",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 649403,
+        "ingredient_id": 20012,
+        "unit": "cup",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 649403,
+        "ingredient_id": 10017224,
+        "unit": "pound",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649403,
+        "ingredient_id": 11282,
+        "unit": "large",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649403,
+        "ingredient_id": 1001,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649403,
+        "ingredient_id": 1002030,
+        "unit": "servings",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 649403,
+        "ingredient_id": 2064,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649403,
+        "ingredient_id": 4582,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 649403,
+        "ingredient_id": 17224,
+        "unit": "ounces",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 649403,
+        "ingredient_id": 12147,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 649403,
+        "ingredient_id": 1022001,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 649403,
+        "ingredient_id": 1256,
+        "unit": "cups",
+        "amount": "2.50"
+    },
+    {
+        "recipe_id": 649403,
+        "ingredient_id": 11215,
+        "unit": "Cloves",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 632353,
+        "ingredient_id": 10211362,
+        "unit": "medium",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 632353,
+        "ingredient_id": 11821,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 632353,
+        "ingredient_id": 11951,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 632353,
+        "ingredient_id": 10011282,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 632353,
+        "ingredient_id": 7064,
+        "unit": "link",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 632353,
+        "ingredient_id": 1014582,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 632353,
+        "ingredient_id": 1062047,
+        "unit": "pinch",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 632353,
+        "ingredient_id": 2031,
+        "unit": "Dash",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 661188,
+        "ingredient_id": 9037,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 661188,
+        "ingredient_id": 9160,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 661188,
+        "ingredient_id": 1002068,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 661188,
+        "ingredient_id": 10011282,
+        "unit": "",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 661188,
+        "ingredient_id": 11977,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 661188,
+        "ingredient_id": 11165,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 661188,
+        "ingredient_id": 10211529,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 661188,
+        "ingredient_id": 2047,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 661188,
+        "ingredient_id": 1002030,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 661188,
+        "ingredient_id": 1002014,
+        "unit": "teaspoon",
+        "amount": "0.13"
+    },
+    {
+        "recipe_id": 661188,
+        "ingredient_id": 1022020,
+        "unit": "teaspoon",
+        "amount": "0.13"
+    },
+    {
+        "recipe_id": 635342,
+        "ingredient_id": 1002030,
+        "unit": "servings",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 635342,
+        "ingredient_id": 18064,
+        "unit": "pieces",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 635342,
+        "ingredient_id": 11252,
+        "unit": "servings",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 635342,
+        "ingredient_id": 4025,
+        "unit": "servings",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 635342,
+        "ingredient_id": 10310123,
+        "unit": "pieces",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 635342,
+        "ingredient_id": 11529,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 636328,
+        "ingredient_id": 1145,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 636328,
+        "ingredient_id": 19335,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 636328,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 636328,
+        "ingredient_id": 2050,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 636328,
+        "ingredient_id": 19904,
+        "unit": "cup",
+        "amount": "0.33"
+    },
+    {
+        "recipe_id": 636328,
+        "ingredient_id": 20081,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 636328,
+        "ingredient_id": 18369,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 636328,
+        "ingredient_id": 2047,
+        "unit": "pinch",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 636328,
+        "ingredient_id": 19087,
+        "unit": "servings",
+        "amount": "5.00"
+    },
+    {
+        "recipe_id": 636328,
+        "ingredient_id": 19157,
+        "unit": "servings",
+        "amount": "5.00"
+    },
+    {
+        "recipe_id": 649141,
+        "ingredient_id": 1002030,
+        "unit": "pinch",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649141,
+        "ingredient_id": 18350,
+        "unit": "",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 649141,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649141,
+        "ingredient_id": 1034053,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649141,
+        "ingredient_id": 2044,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649141,
+        "ingredient_id": 1021026,
+        "unit": "ounces",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 649141,
+        "ingredient_id": 2063,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649141,
+        "ingredient_id": 11215,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649141,
+        "ingredient_id": 5662,
+        "unit": "pound",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649141,
+        "ingredient_id": 7927,
+        "unit": "pound",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649141,
+        "ingredient_id": 4025,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649141,
+        "ingredient_id": 2027,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649141,
+        "ingredient_id": 12147,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 649141,
+        "ingredient_id": 11821,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649141,
+        "ingredient_id": 2047,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 649141,
+        "ingredient_id": 10011457,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649141,
+        "ingredient_id": 2049,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 632449,
+        "ingredient_id": 12061,
+        "unit": "",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 632449,
+        "ingredient_id": 9003,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 632449,
+        "ingredient_id": 11124,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 632449,
+        "ingredient_id": 2010,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 632449,
+        "ingredient_id": 9107,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 632449,
+        "ingredient_id": 1053,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 632449,
+        "ingredient_id": 2047,
+        "unit": "teaspoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 632449,
+        "ingredient_id": 19335,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 632449,
+        "ingredient_id": 11529,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 632449,
+        "ingredient_id": 14412,
+        "unit": "cups",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 640921,
+        "ingredient_id": 11007,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 640921,
+        "ingredient_id": 5062,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 640921,
+        "ingredient_id": 11215,
+        "unit": "cloves",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 640921,
+        "ingredient_id": 9150,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 640921,
+        "ingredient_id": 19911,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 640921,
+        "ingredient_id": 4053,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 640921,
+        "ingredient_id": 1033,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 640921,
+        "ingredient_id": 10211821,
+        "unit": "servings",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 640921,
+        "ingredient_id": 11352,
+        "unit": "large",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 640921,
+        "ingredient_id": 2036,
+        "unit": "sprig",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 640921,
+        "ingredient_id": 2047,
+        "unit": "servings",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 640921,
+        "ingredient_id": 1001026,
+        "unit": "handful",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 663206,
+        "ingredient_id": 11959,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 663206,
+        "ingredient_id": 1034053,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 663206,
+        "ingredient_id": 10211297,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 663206,
+        "ingredient_id": 10211215,
+        "unit": "",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 663206,
+        "ingredient_id": 1032,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 663206,
+        "ingredient_id": 2047,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 663206,
+        "ingredient_id": 10112155,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 664680,
+        "ingredient_id": 10011355,
+        "unit": "kg",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 664680,
+        "ingredient_id": 98965,
+        "unit": "g",
+        "amount": "100.00"
+    },
+    {
+        "recipe_id": 664680,
+        "ingredient_id": 11260,
+        "unit": "kg",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 664680,
+        "ingredient_id": 11124,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 664680,
+        "ingredient_id": 11821,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 664680,
+        "ingredient_id": 11282,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 664680,
+        "ingredient_id": 2045,
+        "unit": "bunch",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 664680,
+        "ingredient_id": 11297,
+        "unit": "bunch",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 664680,
+        "ingredient_id": 18375,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 664680,
+        "ingredient_id": 1012047,
+        "unit": "servings",
+        "amount": "12.00"
+    },
+    {
+        "recipe_id": 664680,
+        "ingredient_id": 1002030,
+        "unit": "tsp",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 664680,
+        "ingredient_id": 1002028,
+        "unit": "tsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 664680,
+        "ingredient_id": 2049,
+        "unit": "tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 664680,
+        "ingredient_id": 4584,
+        "unit": "tbsp",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 715432,
+        "ingredient_id": 5062,
+        "unit": "",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 715432,
+        "ingredient_id": 1017,
+        "unit": "oz",
+        "amount": "16.00"
+    },
+    {
+        "recipe_id": 715432,
+        "ingredient_id": 11291,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 715432,
+        "ingredient_id": 1026168,
+        "unit": "oz",
+        "amount": "12.00"
+    },
+    {
+        "recipe_id": 715432,
+        "ingredient_id": 2034,
+        "unit": "servings",
+        "amount": "7.00"
+    },
+    {
+        "recipe_id": 715432,
+        "ingredient_id": 4639,
+        "unit": "oz",
+        "amount": "16.00"
+    },
+    {
+        "recipe_id": 715432,
+        "ingredient_id": 1031009,
+        "unit": "oz",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 642297,
+        "ingredient_id": 4053,
+        "unit": "cups",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 642297,
+        "ingredient_id": 11333,
+        "unit": "large",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 642297,
+        "ingredient_id": 11266,
+        "unit": "ounces",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 642297,
+        "ingredient_id": 11215,
+        "unit": "clove",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 642297,
+        "ingredient_id": 1032009,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 642297,
+        "ingredient_id": 11531,
+        "unit": "teaspoons",
+        "amount": "14.00"
+    },
+    {
+        "recipe_id": 642297,
+        "ingredient_id": 11209,
+        "unit": "lb",
+        "amount": "1.25"
+    },
+    {
+        "recipe_id": 642297,
+        "ingredient_id": 1036,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 642297,
+        "ingredient_id": 1033,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 642297,
+        "ingredient_id": 2044,
+        "unit": "tablespoons",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 642297,
+        "ingredient_id": 1002030,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 642297,
+        "ingredient_id": 10720420,
+        "unit": "ounces",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 642297,
+        "ingredient_id": 11282,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 652038,
+        "ingredient_id": 6172,
+        "unit": "cube",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 652038,
+        "ingredient_id": 1053,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 652038,
+        "ingredient_id": 2066,
+        "unit": "teaspoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 652038,
+        "ingredient_id": 1077,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 652038,
+        "ingredient_id": 11304,
+        "unit": "lb",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 652038,
+        "ingredient_id": 11352,
+        "unit": "medium",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 652038,
+        "ingredient_id": 1102047,
+        "unit": "servings",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 652038,
+        "ingredient_id": 10011457,
+        "unit": "pound",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 652038,
+        "ingredient_id": 19335,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 652038,
+        "ingredient_id": 14412,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 652038,
+        "ingredient_id": 1116,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 632103,
+        "ingredient_id": 10112061,
+        "unit": "grams",
+        "amount": "100.00"
+    },
+    {
+        "recipe_id": 632103,
+        "ingredient_id": 18369,
+        "unit": "grams",
+        "amount": "15.00"
+    },
+    {
+        "recipe_id": 632103,
+        "ingredient_id": 1001,
+        "unit": "grams",
+        "amount": "125.00"
+    },
+    {
+        "recipe_id": 632103,
+        "ingredient_id": 20081,
+        "unit": "grams",
+        "amount": "300.00"
+    },
+    {
+        "recipe_id": 632103,
+        "ingredient_id": 93676,
+        "unit": "grams",
+        "amount": "150.00"
+    },
+    {
+        "recipe_id": 632103,
+        "ingredient_id": 4511,
+        "unit": "ml",
+        "amount": "90.00"
+    },
+    {
+        "recipe_id": 632103,
+        "ingredient_id": 2047,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 632103,
+        "ingredient_id": 19335,
+        "unit": "cups",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 632103,
+        "ingredient_id": 10319335,
+        "unit": "grams",
+        "amount": "20.00"
+    },
+    {
+        "recipe_id": 632103,
+        "ingredient_id": 1011077,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 638409,
+        "ingredient_id": 1055062,
+        "unit": "",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 638409,
+        "ingredient_id": 1062047,
+        "unit": "servings",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 638409,
+        "ingredient_id": 4053,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 638409,
+        "ingredient_id": 1001009,
+        "unit": "ounces",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 638409,
+        "ingredient_id": 1001026,
+        "unit": "ounces",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 638409,
+        "ingredient_id": 6599,
+        "unit": "ounces",
+        "amount": "19.00"
+    },
+    {
+        "recipe_id": 638409,
+        "ingredient_id": 18363,
+        "unit": "",
+        "amount": "12.00"
+    },
+    {
+        "recipe_id": 638409,
+        "ingredient_id": 1056,
+        "unit": "servings",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 638409,
+        "ingredient_id": 1009037,
+        "unit": "servings",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 638409,
+        "ingredient_id": 11529,
+        "unit": "servings",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 638409,
+        "ingredient_id": 11291,
+        "unit": "servings",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 652442,
+        "ingredient_id": 5006,
+        "unit": "lb",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 652442,
+        "ingredient_id": 10211215,
+        "unit": "",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 652442,
+        "ingredient_id": 11165,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 652442,
+        "ingredient_id": 1012047,
+        "unit": "teaspoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 652442,
+        "ingredient_id": 9156,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 652442,
+        "ingredient_id": 2037,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 652442,
+        "ingredient_id": 4053,
+        "unit": "tablespoons",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 652442,
+        "ingredient_id": 2028,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 652442,
+        "ingredient_id": 1012014,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 652442,
+        "ingredient_id": 1002030,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 652442,
+        "ingredient_id": 2031,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 653128,
+        "ingredient_id": 2001,
+        "unit": "tsp",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 653128,
+        "ingredient_id": 19081,
+        "unit": "oz",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 653128,
+        "ingredient_id": 19165,
+        "unit": "tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 653128,
+        "ingredient_id": 1053,
+        "unit": "oz",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 653128,
+        "ingredient_id": 19336,
+        "unit": "tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 653128,
+        "ingredient_id": 1012047,
+        "unit": "tsp",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 653128,
+        "ingredient_id": 10193715,
+        "unit": "tsp",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 641651,
+        "ingredient_id": 18369,
+        "unit": "tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 641651,
+        "ingredient_id": 1001,
+        "unit": "tbsp",
+        "amount": "5.00"
+    },
+    {
+        "recipe_id": 641651,
+        "ingredient_id": 10020129,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 641651,
+        "ingredient_id": 93751,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 641651,
+        "ingredient_id": 9011,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 641651,
+        "ingredient_id": 9079,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 641651,
+        "ingredient_id": 20081,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 641651,
+        "ingredient_id": 1053,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 641651,
+        "ingredient_id": 2047,
+        "unit": "tsp",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 641651,
+        "ingredient_id": 19908,
+        "unit": "tbsp",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 641651,
+        "ingredient_id": 1011077,
+        "unit": "cup",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 648176,
+        "ingredient_id": 10123,
+        "unit": "slices",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 648176,
+        "ingredient_id": 1002030,
+        "unit": "servings",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 648176,
+        "ingredient_id": 4073,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 648176,
+        "ingredient_id": 11124,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 648176,
+        "ingredient_id": 11143,
+        "unit": "stalks",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 648176,
+        "ingredient_id": 2063,
+        "unit": "sprig",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 648176,
+        "ingredient_id": 99226,
+        "unit": "",
+        "amount": "10.00"
+    },
+    {
+        "recipe_id": 648176,
+        "ingredient_id": 11215,
+        "unit": "cloves",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 648176,
+        "ingredient_id": 10023572,
+        "unit": "pounds",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 648176,
+        "ingredient_id": 10219,
+        "unit": "pound",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 648176,
+        "ingredient_id": 17142,
+        "unit": "pound",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 648176,
+        "ingredient_id": 4053,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 648176,
+        "ingredient_id": 1012047,
+        "unit": "teaspoons",
+        "amount": "2.50"
+    },
+    {
+        "recipe_id": 648176,
+        "ingredient_id": 18069,
+        "unit": "oz",
+        "amount": "7.00"
+    },
+    {
+        "recipe_id": 648176,
+        "ingredient_id": 10611282,
+        "unit": "large",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 648176,
+        "ingredient_id": 1129,
+        "unit": "",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 648176,
+        "ingredient_id": 14057,
+        "unit": "ounces",
+        "amount": "7.00"
+    },
+    {
+        "recipe_id": 634191,
+        "ingredient_id": 10018617,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 634191,
+        "ingredient_id": 1145,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 634191,
+        "ingredient_id": 9040,
+        "unit": "medium",
+        "amount": "5.00"
+    },
+    {
+        "recipe_id": 634191,
+        "ingredient_id": 19271,
+        "unit": "quarts",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 634191,
+        "ingredient_id": 10112155,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634191,
+        "ingredient_id": 99278,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634191,
+        "ingredient_id": 19335,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634191,
+        "ingredient_id": 1214,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634191,
+        "ingredient_id": 2050,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634191,
+        "ingredient_id": 42135,
+        "unit": "ounce",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 1063645,
+        "ingredient_id": 1034053,
+        "unit": "tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 1063645,
+        "ingredient_id": 10013926,
+        "unit": "oz",
+        "amount": "16.00"
+    },
+    {
+        "recipe_id": 1063645,
+        "ingredient_id": 1009037,
+        "unit": "tbsp",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 1063645,
+        "ingredient_id": 1002030,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 1063645,
+        "ingredient_id": 1001009,
+        "unit": "tbsp",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 1063645,
+        "ingredient_id": 18363,
+        "unit": "",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 637513,
+        "ingredient_id": 20081,
+        "unit": "cups",
+        "amount": "1.75"
+    },
+    {
+        "recipe_id": 637513,
+        "ingredient_id": 35137,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 637513,
+        "ingredient_id": 18369,
+        "unit": "teaspoons",
+        "amount": "1.25"
+    },
+    {
+        "recipe_id": 637513,
+        "ingredient_id": 2031,
+        "unit": "teaspoon",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 637513,
+        "ingredient_id": 1002047,
+        "unit": "teaspoons",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 637513,
+        "ingredient_id": 1031009,
+        "unit": "ounces",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 637513,
+        "ingredient_id": 12142,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 637513,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 637513,
+        "ingredient_id": 1012046,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 637513,
+        "ingredient_id": 19911,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 637513,
+        "ingredient_id": 1077,
+        "unit": "tablespoons",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 659887,
+        "ingredient_id": 1001,
+        "unit": "sticks",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 659887,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 659887,
+        "ingredient_id": 9156,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 659887,
+        "ingredient_id": 93740,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 659887,
+        "ingredient_id": 10519335,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 659887,
+        "ingredient_id": 20081,
+        "unit": "cups",
+        "amount": "1.25"
+    },
+    {
+        "recipe_id": 659887,
+        "ingredient_id": 9152,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 659887,
+        "ingredient_id": 9150,
+        "unit": "small",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 659887,
+        "ingredient_id": 19336,
+        "unit": "servings",
+        "amount": "36.00"
+    },
+    {
+        "recipe_id": 661864,
+        "ingredient_id": 11959,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 661864,
+        "ingredient_id": 9037,
+        "unit": "",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 661864,
+        "ingredient_id": 10123,
+        "unit": "slices",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 661864,
+        "ingredient_id": 2069,
+        "unit": "tablespoons",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 661864,
+        "ingredient_id": 11206,
+        "unit": "",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 661864,
+        "ingredient_id": 98934,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 661864,
+        "ingredient_id": 21052,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 661864,
+        "ingredient_id": 10211821,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 661864,
+        "ingredient_id": 19047,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 661864,
+        "ingredient_id": 2047,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 661864,
+        "ingredient_id": 9316,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 661864,
+        "ingredient_id": 1012046,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 661240,
+        "ingredient_id": 19335,
+        "unit": "cup",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 661240,
+        "ingredient_id": 14412,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 661240,
+        "ingredient_id": 2064,
+        "unit": "sprigs",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 661240,
+        "ingredient_id": 9152,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 661240,
+        "ingredient_id": 9326,
+        "unit": "cups",
+        "amount": "7.00"
+    },
+    {
+        "recipe_id": 661240,
+        "ingredient_id": 10514037,
+        "unit": "ounces",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 1046983,
+        "ingredient_id": 2044,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 1046983,
+        "ingredient_id": 10211821,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 1046983,
+        "ingredient_id": 5662,
+        "unit": "pounds",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 1046983,
+        "ingredient_id": 1026,
+        "unit": "ounces",
+        "amount": "12.00"
+    },
+    {
+        "recipe_id": 1046983,
+        "ingredient_id": 11282,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 1046983,
+        "ingredient_id": 1033,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 1046983,
+        "ingredient_id": 11297,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 1046983,
+        "ingredient_id": 11821,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 1046983,
+        "ingredient_id": 1036,
+        "unit": "ounces",
+        "amount": "15.00"
+    },
+    {
+        "recipe_id": 1046983,
+        "ingredient_id": 19335,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 1046983,
+        "ingredient_id": 11549,
+        "unit": "ounces",
+        "amount": "28.00"
+    },
+    {
+        "recipe_id": 1046983,
+        "ingredient_id": 2032,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 1046983,
+        "ingredient_id": 11477,
+        "unit": "large",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 660133,
+        "ingredient_id": 5006,
+        "unit": "kg",
+        "amount": "1.20"
+    },
+    {
+        "recipe_id": 660133,
+        "ingredient_id": 1001,
+        "unit": "stick",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 660133,
+        "ingredient_id": 11215,
+        "unit": "cloves",
+        "amount": "5.00"
+    },
+    {
+        "recipe_id": 660133,
+        "ingredient_id": 23572,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 660133,
+        "ingredient_id": 1032009,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 660133,
+        "ingredient_id": 1102047,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 660133,
+        "ingredient_id": 9150,
+        "unit": "",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 660133,
+        "ingredient_id": 10211362,
+        "unit": "",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 660133,
+        "ingredient_id": 11507,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 660133,
+        "ingredient_id": 4053,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 637210,
+        "ingredient_id": 19912,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 637210,
+        "ingredient_id": 9019,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 637210,
+        "ingredient_id": 18369,
+        "unit": "teaspoons",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 637210,
+        "ingredient_id": 18372,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 637210,
+        "ingredient_id": 11124,
+        "unit": "cups",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 637210,
+        "ingredient_id": 2010,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 637210,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 637210,
+        "ingredient_id": 11216,
+        "unit": "teaspoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 637210,
+        "ingredient_id": 2047,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 637210,
+        "ingredient_id": 2050,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 637210,
+        "ingredient_id": 20132,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 637440,
+        "ingredient_id": 99031,
+        "unit": "ounces",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 637440,
+        "ingredient_id": 11294,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 637440,
+        "ingredient_id": 11215,
+        "unit": "cloves",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 637440,
+        "ingredient_id": 11457,
+        "unit": "pound",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 637440,
+        "ingredient_id": 11124,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 637440,
+        "ingredient_id": 11291,
+        "unit": "",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 637440,
+        "ingredient_id": 11260,
+        "unit": "",
+        "amount": "5.00"
+    },
+    {
+        "recipe_id": 637440,
+        "ingredient_id": 11477,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 637440,
+        "ingredient_id": 4053,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 637440,
+        "ingredient_id": 4058,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 637440,
+        "ingredient_id": 16124,
+        "unit": "tablespoons",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 637440,
+        "ingredient_id": 19335,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 637440,
+        "ingredient_id": 2047,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 658517,
+        "ingredient_id": 11098,
+        "unit": "pounds",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 658517,
+        "ingredient_id": 10410123,
+        "unit": "slices",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 658517,
+        "ingredient_id": 11215,
+        "unit": "cloves",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 658517,
+        "ingredient_id": 4053,
+        "unit": "",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 658517,
+        "ingredient_id": 18064,
+        "unit": "slice",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 651409,
+        "ingredient_id": 1002030,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 651409,
+        "ingredient_id": 1017,
+        "unit": "oz",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 651409,
+        "ingredient_id": 1019,
+        "unit": "oz",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 651409,
+        "ingredient_id": 2044,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 651409,
+        "ingredient_id": 10211297,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 651409,
+        "ingredient_id": 10211215,
+        "unit": "",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 651409,
+        "ingredient_id": 6168,
+        "unit": "Dash",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 651409,
+        "ingredient_id": 11916,
+        "unit": "oz",
+        "amount": "10.00"
+    },
+    {
+        "recipe_id": 651409,
+        "ingredient_id": 2047,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 651409,
+        "ingredient_id": 11955,
+        "unit": "oz",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 651409,
+        "ingredient_id": 6971,
+        "unit": "t",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 645265,
+        "ingredient_id": 11206,
+        "unit": "small",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 645265,
+        "ingredient_id": 1019,
+        "unit": "cups",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 645265,
+        "ingredient_id": 1009195,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 645265,
+        "ingredient_id": 10211529,
+        "unit": "cups",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 645265,
+        "ingredient_id": 11955,
+        "unit": "cup",
+        "amount": "0.33"
+    },
+    {
+        "recipe_id": 645265,
+        "ingredient_id": 10011282,
+        "unit": "",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 645265,
+        "ingredient_id": 1022053,
+        "unit": "Tbsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 645265,
+        "ingredient_id": 1042027,
+        "unit": "tsp",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 637187,
+        "ingredient_id": 11124,
+        "unit": "cup",
+        "amount": "2.25"
+    },
+    {
+        "recipe_id": 637187,
+        "ingredient_id": 2010,
+        "unit": "tsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 637187,
+        "ingredient_id": 12104,
+        "unit": "cup",
+        "amount": "0.67"
+    },
+    {
+        "recipe_id": 637187,
+        "ingredient_id": 2021,
+        "unit": "tsp",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 637187,
+        "ingredient_id": 9421,
+        "unit": "cup",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 637187,
+        "ingredient_id": 12036,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 637187,
+        "ingredient_id": 12155,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 715439,
+        "ingredient_id": 10018166,
+        "unit": "package",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 715439,
+        "ingredient_id": 1017,
+        "unit": "oz",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 715439,
+        "ingredient_id": 19087,
+        "unit": "packages",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 715439,
+        "ingredient_id": 10019904,
+        "unit": "package",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 715439,
+        "ingredient_id": 10019230,
+        "unit": "servings",
+        "amount": "12.00"
+    },
+    {
+        "recipe_id": 660868,
+        "ingredient_id": 2004,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 660868,
+        "ingredient_id": 11215,
+        "unit": "cloves",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 660868,
+        "ingredient_id": 10023572,
+        "unit": "pound",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 660868,
+        "ingredient_id": 4053,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 660868,
+        "ingredient_id": 11282,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 660868,
+        "ingredient_id": 11297,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 660868,
+        "ingredient_id": 1042009,
+        "unit": "pinch",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 660868,
+        "ingredient_id": 1102047,
+        "unit": "servings",
+        "amount": "20.00"
+    },
+    {
+        "recipe_id": 660868,
+        "ingredient_id": 19335,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 660868,
+        "ingredient_id": 11529,
+        "unit": "g",
+        "amount": "600.00"
+    },
+    {
+        "recipe_id": 660868,
+        "ingredient_id": 18069,
+        "unit": "slices",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 660868,
+        "ingredient_id": 1123,
+        "unit": "large",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 665276,
+        "ingredient_id": 18369,
+        "unit": "teaspoon",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 665276,
+        "ingredient_id": 18372,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 665276,
+        "ingredient_id": 99278,
+        "unit": "oz",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 665276,
+        "ingredient_id": 10093831,
+        "unit": "cup",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 665276,
+        "ingredient_id": 10019334,
+        "unit": "cup",
+        "amount": "0.75"
+    },
+    {
+        "recipe_id": 665276,
+        "ingredient_id": 1123,
+        "unit": "",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 665276,
+        "ingredient_id": 1082047,
+        "unit": "teaspoon",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 665276,
+        "ingredient_id": 1145,
+        "unit": "ounces",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 665276,
+        "ingredient_id": 2050,
+        "unit": "teaspoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 665276,
+        "ingredient_id": 20080,
+        "unit": "cups",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 649137,
+        "ingredient_id": 11206,
+        "unit": "",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 649137,
+        "ingredient_id": 16124,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 649137,
+        "ingredient_id": 1022053,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649137,
+        "ingredient_id": 4058,
+        "unit": "teaspoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 649137,
+        "ingredient_id": 10111962,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 634486,
+        "ingredient_id": 13023,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634486,
+        "ingredient_id": 1102047,
+        "unit": "servings",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 634486,
+        "ingredient_id": 4582,
+        "unit": "Tbs",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 634486,
+        "ingredient_id": 2026,
+        "unit": "tsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 634486,
+        "ingredient_id": 1022020,
+        "unit": "tsp",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 634486,
+        "ingredient_id": 1012028,
+        "unit": "tsp",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 634486,
+        "ingredient_id": 1002014,
+        "unit": "tsp",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 634486,
+        "ingredient_id": 2031,
+        "unit": "tsp",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 634486,
+        "ingredient_id": 6150,
+        "unit": "cups",
+        "amount": "1.50"
+    },
+    {
+        "recipe_id": 634486,
+        "ingredient_id": 19334,
+        "unit": "cup",
+        "amount": "0.33"
+    },
+    {
+        "recipe_id": 634486,
+        "ingredient_id": 20027,
+        "unit": "tbsp",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 639413,
+        "ingredient_id": 1006615,
+        "unit": "packets",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 639413,
+        "ingredient_id": 10218364,
+        "unit": "6-inch",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 639413,
+        "ingredient_id": 11165,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 639413,
+        "ingredient_id": 11252,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 639413,
+        "ingredient_id": 9160,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 639413,
+        "ingredient_id": 4053,
+        "unit": "servings",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 639413,
+        "ingredient_id": 10011282,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 639413,
+        "ingredient_id": 6164,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 639413,
+        "ingredient_id": 1056,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 639413,
+        "ingredient_id": 15261,
+        "unit": "pound",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 665484,
+        "ingredient_id": 4073,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 665484,
+        "ingredient_id": 19081,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 665484,
+        "ingredient_id": 8120,
+        "unit": "cups",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 665484,
+        "ingredient_id": 16098,
+        "unit": "cup",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 665484,
+        "ingredient_id": 16223,
+        "unit": "cup",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 665484,
+        "ingredient_id": 10219868,
+        "unit": "cups",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 665484,
+        "ingredient_id": 1052050,
+        "unit": "tsp",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 641408,
+        "ingredient_id": 10211821,
+        "unit": "",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 641408,
+        "ingredient_id": 11215,
+        "unit": "cloves",
+        "amount": "7.00"
+    },
+    {
+        "recipe_id": 641408,
+        "ingredient_id": 1002030,
+        "unit": "Dashes",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 641408,
+        "ingredient_id": 7036,
+        "unit": "",
+        "amount": "4.00"
+    },
+    {
+        "recipe_id": 641408,
+        "ingredient_id": 11979,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 641408,
+        "ingredient_id": 4053,
+        "unit": "servings",
+        "amount": "8.00"
+    },
+    {
+        "recipe_id": 641408,
+        "ingredient_id": 10211297,
+        "unit": "handful",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 641408,
+        "ingredient_id": 6164,
+        "unit": "tablespoons",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 641408,
+        "ingredient_id": 1012047,
+        "unit": "Dashes",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 641408,
+        "ingredient_id": 11294,
+        "unit": "large",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 663092,
+        "ingredient_id": 99009,
+        "unit": "can",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 663092,
+        "ingredient_id": 14412,
+        "unit": "cans",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 663092,
+        "ingredient_id": 93605,
+        "unit": "tablespoons",
+        "amount": "2.00"
+    },
+    {
+        "recipe_id": 663092,
+        "ingredient_id": 10211216,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 663092,
+        "ingredient_id": 11300,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 663092,
+        "ingredient_id": 11052,
+        "unit": "cup",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 663092,
+        "ingredient_id": 11124,
+        "unit": "large",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 663092,
+        "ingredient_id": 1012044,
+        "unit": "handful",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 663092,
+        "ingredient_id": 9160,
+        "unit": "cup",
+        "amount": "0.25"
+    },
+    {
+        "recipe_id": 663092,
+        "ingredient_id": 16424,
+        "unit": "tablespoon",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 663092,
+        "ingredient_id": 4058,
+        "unit": "tablespoon",
+        "amount": "3.00"
+    },
+    {
+        "recipe_id": 663092,
+        "ingredient_id": 2009,
+        "unit": "servings",
+        "amount": "6.00"
+    },
+    {
+        "recipe_id": 663092,
+        "ingredient_id": 10016213,
+        "unit": "pound",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 663092,
+        "ingredient_id": 2047,
+        "unit": "teaspoon",
+        "amount": "0.50"
+    },
+    {
+        "recipe_id": 663092,
+        "ingredient_id": 11821,
+        "unit": "",
+        "amount": "1.00"
+    },
+    {
+        "recipe_id": 663092,
+        "ingredient_id": 1002030,
+        "unit": "servings",
+        "amount": "6.00"
+    }
+]
