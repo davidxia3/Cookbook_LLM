@@ -47,7 +47,7 @@ def fetch_recipes():
 
 recipes = fetch_recipes()
 
-with open('data/recipes_data.json', 'w') as json_file:
+with open('data/json_data/recipes_data.json', 'w') as json_file:
     json.dump(recipes, json_file, indent=4)
 
 
@@ -70,7 +70,7 @@ def fetch_ingredients():
     
 ingredients = fetch_ingredients()
 
-with open('data/ingreidents_data.json', 'w') as json_file:
+with open('data/json_data/ingredients_data.json', 'w') as json_file:
     json.dump(ingredients, json_file, indent=4)
 
 
@@ -92,7 +92,7 @@ def fetch_recipe_ingredients():
     
 recipe_ingredients = fetch_recipe_ingredients()
 
-with open('data/recipe_ingredients_data.json', 'w') as json_file:
+with open('data/json_data/recipe_ingredients_data.json', 'w') as json_file:
     json.dump(recipe_ingredients, json_file, indent=4)
 
 conn.close()
