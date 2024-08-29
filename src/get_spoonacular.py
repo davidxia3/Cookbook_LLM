@@ -146,7 +146,7 @@ def process_and_insert_recipe(recipe):
 def main():
     already_fetched_ids = get_retrieved_recipe_ids()
     
-    for _ in range(20): 
+    for _ in range(135): 
         recipe = fetch_recipe()
         
         if recipe['id'] not in already_fetched_ids:
