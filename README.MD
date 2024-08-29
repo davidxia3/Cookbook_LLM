@@ -6,13 +6,13 @@ This project is focused on fine tuning a GPT-2 model to generate text completion
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/davidxia3/Cookbook-LLM.git
-   cd Cookbook-LLM
+git clone https://github.com/davidxia3/Cookbook-LLM.git
+cd Cookbook-LLM
 ```
 
 2. Install dependencies:
 ```bash
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 3. Train custom model
